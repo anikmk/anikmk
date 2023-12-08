@@ -1,8 +1,11 @@
+<div align="center">
+ <img src="./image/slider1.jpg" alt="Cover Photo" width="100%" height="300px">
 
-# i am Anik Mollik
+# Hi <img src="hi.gif" alt="Cover Photo" width="30" height="30px"> I'm Anik Mollik
 A passionate Software Engineer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikmk&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 ## 🚀 About Me
 - 🌱 I’m currently learning node next.
@@ -17,3 +20,5 @@ A passionate Software Engineer
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-mollik-5bb195252/)
+
+

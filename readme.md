@@ -1,15 +1,20 @@
 <div align="center">
- <img src="./image/slider1.jpg" alt="Cover Photo" width="100%" height="300px">
+ <img src="./image/banner.png" alt="Cover Photo" width="100%" height="220px">
 
 # Hi <img src="hi.gif" alt="Cover Photo" width="30" height="30px"> I'm Anik Mollik
 A passionate Software Engineer
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikmk&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikmk&theme=ocean-dark)](https://git.io/streak-stats)
+
+
+
+
 </div>
 
 ## 🚀 About Me
-- 🌱 I’m currently learning node next.
+- 🌱 I’m currently learning Next.Js.
 - 💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.
+- fact: i love Coding especially new project 
 - 📫 Reach me at "[anikmollik122321@gmail.com]"
 
 

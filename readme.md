@@ -6,9 +6,11 @@ A passionate Software Engineer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikmk&theme=ocean-dark)](https://git.io/streak-stats)
 
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikmk&theme=ocean_dark)
+</div>
+<div style="display:flex">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikmk&theme=ocean_dark" alt="Repos per Language" style="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikmk&theme=ocean_dark" alt="Most Commit Language" style="">
 </div>
 
 ## 🚀 About Me

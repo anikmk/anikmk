@@ -32,7 +32,22 @@ A passionate Software Engineer
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-mollik-5bb195252/)
 
   # 🔗 Latest Project
-  ## Project Name(01) : Fitness Tracker website
+  ## Project Name(01): Event Planet
+
+ - Live Link: https://event-planet-9789f.web.app
+ ## My Contributions:
+     Feedback & Reviews: Sparking conversations, building connections through shared experiences and valuable opinions.
+     Authentication & Profile Creation: Ensuring security, effortless access with user-friendly sign-in and profile setup.
+     Event Details & Ticket Selection: Unveiling excitement, simplifying ticket selection for seamless event participation.
+
+ ## 🛠 Technologies used: 
+  - Frontend: JavaScript,React.js,Redux,axios,Tailwind CSS
+  - Component Library: DaisyUI
+  - Backed: Mongoose,Express.js,Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Auth
+  - 
+  ## Project Name(02) : Fitness Tracker website
   - Live Link: (https://fitness-tracker-012.web.app/)
 
   ## Main Features:
@@ -55,7 +70,7 @@ A passionate Software Engineer
   - Database: MongoDB
   - Authentication: Firebase Auth
 
-## Project Name(02): ProLearn|Hub
+## Project Name(03): ProLearn|Hub
 
  - Live Link: https://pro-learn-hub.web.app/
  ## Main Features:
@@ -71,29 +86,6 @@ A passionate Software Engineer
 - Secure and Trustworthy: Security is paramount. We guarantee a secure environment for transactions and user data, ensuring a safe and reliable platform for learning and bidding.
 
 - Responsive Support: We provide prompt and responsive support to address any user queries or concerns, ensuring a positive user experience throughout their journey on our platform.
- 
- ## 🛠 Technologies used: 
-  - Frontend: JavaScript,React.js,Tailwind CSS
-  - Component Library: DaisyUI
-  - Backed: Express.js,Node.js
-  - Database: MongoDB
-  - Authentication: Firebase Auth
-
-
-## Project Name(03): BrandShope|Automotive
-
- - Live Link: https://automotive-10.web.app/singleproduct/65318a4146776631b7ad75a4
- ## Main Features:
- 
- - User-Friendly Interface: We've created a visually appealing and easy-to-navigate user interface. Users can effortlessly explore various sections of the website, including services, car listings, and more. The design is responsive, ensuring a seamless experience across different devices.
-
-- Car Listing and Updates: Sellers can easily list their cars for sale on our platform. We provide a user-friendly form to input all relevant car details. Sellers also have the option to edit and update their listings as needed. This feature simplifies the process of showcasing vehicles to potential buyers.
-
-- Purchase: making it easy for buyers to find the right vehicle. Once they've found a car they like, they can initiate the purchase process directly through the platform.
-
-- Services Section: We offer a dedicated section to provide information about our services. Whether it's car inspections, financing options, or maintenance services, users can find detailed information and contact us for further assistance.
-
-- Footer and Contact Information: Our footer section contains essential links to terms of service, privacy policy, and contact details. Users can quickly reach out to our support team or follow us on social media platforms.
  
  ## 🛠 Technologies used: 
   - Frontend: JavaScript,React.js,Tailwind CSS
